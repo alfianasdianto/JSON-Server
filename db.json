@@ -1,21 +1,21 @@
 {
     "employees": [{
             "id": 1,
-            "first_name": "Sebastian",
-            "last_name": "Eschweiler",
-            "email": "sebastian@codingthesmartway.com"
+            "full_name": "Alfian Asdianto",
+            "divisi": "TECH",
+            "email": "alfian@definite.co.id"
         },
         {
             "id": 2,
-            "first_name": "Steve",
-            "last_name": "Palmer",
-            "email": "steve@codingthesmartway.com"
+            "full_name": "Budi Purnomo",
+            "divisi": "PM",
+            "email": "budi_purnomo@definite.co.id"
         },
         {
             "id": 3,
-            "first_name": "Ann",
-            "last_name": "Smith",
-            "email": "ann@codingthesmartway.com"
+            "full_name": "Abianto",
+            "divisi": "UXD",
+            "email": "abianto@definite.co.id"
         }
     ]
 }
